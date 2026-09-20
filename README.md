@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
-</p>
 
 <p align="center">
-  <a href="https://github.com/DeepakAmalWinstarJ">
+  <a href="https://github.com/rakesh-rk04">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+  <a href="https://linkedin.com/in/rakesh-rk04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -17,11 +14,11 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
+  <a href="https://leetcode.com/rakesh-rk04" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto:ilavarasurakesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
@@ -29,13 +26,13 @@
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+  <a href="https://github.com/rakesh-rk04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rakesh-rk04&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -51,8 +48,8 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+  Hey! I'm <b>Rakesh </b>, a passionate <b> Software Engineer Undergraduate </b> based in India.<br />
+  I'm a software engineer Undergraduate designs, builds, tests, and maintains computer software, systems, and applications using programming logic and engineering principles.
 </p>
 
 <p align="center">
@@ -121,17 +118,17 @@
 <p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+  <a href="https://leetcode.com/rakesh-rk04/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+  <a href="https://leetcode.com/rakesh-rk04/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+  <a href="https://leetcode.com/rakesh-rk04/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
@@ -183,9 +180,9 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rakesh-rk04&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rakesh-rk04&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -213,7 +210,7 @@
 <table border="0" align="center">
 <tr>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+  <a href="https://www.linkedin.com/in/rakesh-rakesh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -231,7 +228,7 @@
   <sub><b>Articles &amp; Tech Guides</b></sub>
 </td>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto:ilavarasurakesh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
