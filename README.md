@@ -103,7 +103,7 @@
       <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+    <a href="https://github.com/rakesh-rk04" target="_blank">
       <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
     </a>
   </p>
